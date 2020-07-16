@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aayush Agarwal 🙋‍♂️</h1>
-<h2 align="center">💻Front End Developer, Competitive Coder👨‍💻</h2>
+<p align="center">I am currently pursuing B.Tech in IT from Kalyani Government Engineering College. Currently working on Web Development. I have keen interest in machine learning and artificial intelligence. I am a painter and a musician.</p>
 
 <h3>How to reach me:</h3>
 
@@ -15,24 +15,25 @@
 
 <h2>Tools & Technologies</h2>
 <p>
-    <span>Programming Languages:</span><br>
+    <span>Programming Languages:</span><br><br>
     <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/c++%20-%23003791.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/java%20-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;
    <br>
-   <span>Front End:</span><br>
+    <br>
+   <span>Front End:</span><br><br>
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-   <br>
-   <span>Frameworks:</span><br>
+   <br><br>
+   <span>Frameworks:</span><br><br>
    <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
-   <br>
-   <span>Designing:</span><br>
+   <br><br>
+   <span>Designing:</span><br><br>
     <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/illustrator%20-%23FF5722.svg?&style=for-the-badge&logo=illustrator&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;
-   <br>
+   <br><br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
 </p> 
