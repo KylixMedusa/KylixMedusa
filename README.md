@@ -15,20 +15,20 @@
 
 <h2>Tools & Technologies</h2>
 <p>
-    <p>Programming Languages:</p>
+    <span>Programming Languages:</span><br>
     <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/c++%20-%23003791.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/java%20-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;
    <br>
-   <p>Front End:</p>
+   <span>Front End:</span><br>
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
    <br>
-   <p>Frameworks:</p>
+   <span>Frameworks:</span><br>
    <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
    <br>
-   <p>Designing:</p>
+   <span>Designing:</span><br>
     <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/illustrator%20-%23FF5722.svg?&style=for-the-badge&logo=illustrator&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;
