@@ -22,12 +22,15 @@
    <br>
     <br>
    <span>Front End:</span><br><br>
+   <img src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/sass%20-%23E4405F.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
    <br><br>
    <span>Frameworks:</span><br><br>
-   <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/react%20-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
    <br><br>
    <span>Designing:</span><br><br>
     <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;
@@ -41,4 +44,3 @@
 <hr>
 
 <h3 align="center">💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
-
