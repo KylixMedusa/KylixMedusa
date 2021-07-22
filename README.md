@@ -21,21 +21,30 @@
    <img src="https://img.shields.io/badge/java%20-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;
    <br>
     <br>
-   <span>Front End:</span><br><br>
-   <img src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/sass%20-%23E4405F.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
-   <br><br>
-   <span>Frameworks:</span><br><br>
+   <span>Web:</span><br><br>
     <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/react%20-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+    <img src="https://img.shields.io/badge/sass%20-%23E4405F.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+   <br><br>
+    <span>App:</span><br><br>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
    <br><br>
    <span>Designing:</span><br><br>
     <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/illustrator%20-%23FF5722.svg?&style=for-the-badge&logo=illustrator&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/Adobe Xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;
+   <br><br>
+    <span>Other:</span><br><br>
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;
    <br><br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
