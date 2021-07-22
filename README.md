@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aayush Agarwal 🙋‍♂️</h1>
-<p align="center">I am currently pursuing B.Tech in IT from Kalyani Government Engineering College. Currently working on Web Development. I have keen interest in machine learning and artificial intelligence. I am a painter and a musician.</p>
+<p align="center">Software Developer at @TagMango. Google Developer Students Club @DSCKGEC. Currently working on Web and App Development. Pursuing B.Tech in IT from Kalyani Government Engineering College. I have keen interest in machine learning and artificial intelligence. I am a painter and a musician.</p>
 
 <h3>How to reach me:</h3>
 
