@@ -52,4 +52,7 @@
 
 <hr>
 
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kylixmedusa" alt="KylixMedusa GitHub Streaks"/></p>
+
 <h3 align="center">💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
