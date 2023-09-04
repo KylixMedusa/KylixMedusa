@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aayush Agarwal 🙋‍♂️</h1>
-<p align="center">Software Developer at @TagMango. Google Developer Students Club @DSCKGEC. Currently working on Web and App Development. Pursuing B.Tech in IT from Kalyani Government Engineering College. Exploring new stuff is what I live for. I love painting and doing music when I'm not coding.</p>
+<p align="center">Software Developer at @TagMango. Currently working on App and Web Development. Pursuing B.Tech in IT from Kalyani Government Engineering College. Exploring new stuff is what I live for. I love painting and doing music when I'm not coding.</p>
 
 <h3>How to reach me:</h3>
 
@@ -16,26 +16,24 @@
 <h2>Tools & Technologies</h2>
 <p>
     <span>Programming Languages:</span><br><br>
+   <img src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
     <img src="https://img.shields.io/badge/c%20-%230077B5.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/c++%20-%23003791.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/java%20-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;
    <br>
     <br>
    <span>Web:</span><br><br>
-    <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/react%20-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-   <img src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
     <img src="https://img.shields.io/badge/sass%20-%23E4405F.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/angular%20-%23E60012.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
    <br><br>
     <span>App:</span><br><br>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
    <br><br>
    <span>Designing:</span><br><br>
     <img src="https://img.shields.io/badge/photoshop%20-%233498DB.svg?&style=for-the-badge&logo=photoshop&logoColor=black" />&nbsp;
